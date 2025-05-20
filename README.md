@@ -1,2 +1,1 @@
-# frontend-pro
-My homeworks for a front-end pro course
+# Hillel Front-end Pro course
